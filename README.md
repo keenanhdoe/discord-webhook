@@ -1,2 +1,3 @@
-# discord-webhook
-python script to send messages as a webhook
+this is all you need to install 
+
+pip install requests
